@@ -1,2 +1,2 @@
-[Blog](gaoxiaoyang.github.io)
+[Blog](http://52bg.org)
 
