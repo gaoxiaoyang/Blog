@@ -1,5 +1,6 @@
 ---
 title: Hexo
+date: 2018-12-21 10:44:49
 tags: hexo
 ---
 使用 [Hexo](https://hexo.io/) 搭建自己博客
