@@ -83,6 +83,20 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
   More info: [Deployment](https://hexo.io/docs/deployment.html)
 
+### Use image
+
+配置`Blog/_config.yml`
+
+```bash
+post_asset_folader: true
+```
+
+在`Blog/source` 下创建图片目录， 如`imgs`
+
+```bash
+![](/imgs/christmas.png)
+```
+
 ### 自定义域名
 
 1.  在万网的域名解析中把 `52bg.org` 解析到 `192.30.252.154`
