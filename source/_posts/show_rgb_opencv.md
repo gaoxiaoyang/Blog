@@ -1,5 +1,5 @@
 ---
-title: 'show image, convert yuv to rgb in opencv'
+title: 'show image, convert yuv to rgb by opencv'
 date: 2019-05-27 12:28:59
 tags: 
      - opencv
