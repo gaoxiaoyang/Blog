@@ -1,6 +1,6 @@
 ---
 title: linux cmd
-date: 20220-07-09 16:44:49
+date: 2020-07-09 16:44:49
 tags: 
 - grep
 - linux
