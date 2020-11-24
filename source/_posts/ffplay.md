@@ -2,8 +2,8 @@
 title: ffplay
 date: 2019-11-14 13:58:06
 tags:
-     -ffplay
-     -ffmpeg
+- ffplay
+- ffmpeg
 
 ---
 
