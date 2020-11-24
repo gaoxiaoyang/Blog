@@ -6,7 +6,7 @@ tags:
 - python
 ---
 
-- 安装`Fabric`
+- ####  安装`Fabric`
 
   Fabric的官网是 [www.fabfile.org](http://www.fabfile.org/)，源码托管在[Github](https://github.com/fabric/fabric)上。你可以clone源码到本地，然后通过下面的命令来安装。但是在源码安装前，你必须先将Fabric的依赖包[Paramiko](http://www.paramiko.org/)装上
 
@@ -35,7 +35,7 @@ tags:
 
   <!--more-->
 
-- `Fabric` 示例
+- #### `Fabric` 示例
 
   ```python
   from fabric.api import *
@@ -61,16 +61,14 @@ tags:
   ```
 
 
-- 执行任务 `test`:
+- #### 执行任务 `test`
 
     ```bash
     fab -f fab.py test
     ```
 
-- 执行任务有参数任务`test3`
+- #### 执行任务有参数任务`test3`
 
   ```bash
   fab -f fab.py test3:name=test3
   ```
-
-  
