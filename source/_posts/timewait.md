@@ -2,7 +2,7 @@
 title: TIME_WAIT 过多的解决办法
 date: 2020-11-24 10:21:41
 tags: 
-- LINUX
+- Linux
 - TCP
 - TIME_WAIT
 ---

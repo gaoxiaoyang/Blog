@@ -1,9 +1,8 @@
 ---
-title: ram disk on linux
+title: ram disk on Linux
 date: 2018-12-24 16:26:58
 tags:
- - linux
- - ubuntu
+ - Linux
  - ram
 ---
 
