@@ -3,7 +3,7 @@ title: Linux 下测试磁盘读写io
 date: 2020-12-02 14:53:34
 tags:
 - disk
-- Linux
+- linux
 ---
 
 ### 一.  hdparm

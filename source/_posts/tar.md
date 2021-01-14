@@ -3,7 +3,7 @@ title: tar 用法
 date: 2020-12-04 10:09:26
 tags:
 - tar
-- Linux
+- linux
 ---
 
 - 压缩

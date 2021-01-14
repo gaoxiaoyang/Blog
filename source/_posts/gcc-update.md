@@ -3,7 +3,7 @@ title: CentOS 6 升级GCC
 date: 2021-01-11 15:24:41
 tags:
 - gcc
-- Linux
+- linux
 - Centos6
 ---
 

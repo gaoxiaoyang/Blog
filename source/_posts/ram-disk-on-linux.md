@@ -2,7 +2,7 @@
 title: ram disk on Linux
 date: 2018-12-24 16:26:58
 tags:
- - Linux
+ - linux
  - ram
 ---
 

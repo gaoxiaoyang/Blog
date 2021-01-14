@@ -3,7 +3,7 @@ title: Linux cmd
 date: 2020-07-09 16:44:49
 tags: 
 - grep
-- Linux
+- linux
 - nohup
 
 ---
